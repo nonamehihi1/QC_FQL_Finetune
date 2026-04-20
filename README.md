@@ -34,7 +34,7 @@ Giảm tuyến tính về 0 tại ~70% tổng số bước train
 
 👉 Cuối training:
 R_new ≈ R_env
-	​
+
 4. Nới lỏng ràng buộc ở pha Online
 Với ~1 triệu bước online, agent có đủ thời gian khám phá.
 Cách sửa:
